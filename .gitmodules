@@ -10,3 +10,6 @@
 [submodule "pytorch-gans-collection/pytorch-generative-model-collections"]
 	path = pytorch-gans-collection/pytorch-generative-model-collections
 	url = git@github.com:znxlwm/pytorch-generative-model-collections.git
+[submodule "cgan/Conditional-GAN"]
+	path = cgan/Conditional-GAN
+	url = git@github.com:zhangqianhui/Conditional-GAN.git
