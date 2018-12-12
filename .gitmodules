@@ -7,3 +7,6 @@
 [submodule "faceswap/faceswap"]
 	path = faceswap/faceswap
 	url = git@github.com:deepfakes/faceswap.git
+[submodule "pytorch-gans-collection/pytorch-generative-model-collections"]
+	path = pytorch-gans-collection/pytorch-generative-model-collections
+	url = git@github.com:znxlwm/pytorch-generative-model-collections.git
