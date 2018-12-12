@@ -4,3 +4,6 @@
 [submodule "starGAN/stargan"]
 	path = starGAN/stargan
 	url = git@github.com:yunjey/stargan.git
+[submodule "faceswap/faceswap"]
+	path = faceswap/faceswap
+	url = git@github.com:deepfakes/faceswap.git
