@@ -1,4 +1,4 @@
-## Image generator implementations sharing same runtime enviroment
+## Image generator implementations sharing same runtime enviroment, exportalbe/importable to/with each other 
   TODO implement adapters
 
 ## Papers sources 
