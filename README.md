@@ -1,3 +1,6 @@
+## Image generator implementations sharing same runtime enviroment
+  TODO implement adapters
+
 ## Papers sources 
  * [Common gans papers list](https://github.com/zhangqianhui/AdversarialNetsPapers)
  * [List of gans at most for image generation](https://github.com/nightrome/really-awesome-gan)
