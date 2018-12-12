@@ -1,3 +1,6 @@
 [submodule "sagan/Self-Attention-GAN"]
 	path = sagan/Self-Attention-GAN
 	url = git@github.com:heykeetae/Self-Attention-GAN.git
+[submodule "starGAN/stargan"]
+	path = starGAN/stargan
+	url = git@github.com:yunjey/stargan.git
