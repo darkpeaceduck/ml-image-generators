@@ -13,3 +13,6 @@
 [submodule "cgan/Conditional-GAN"]
 	path = cgan/Conditional-GAN
 	url = git@github.com:zhangqianhui/Conditional-GAN.git
+[submodule "tlgan/transparent_latent_gan"]
+	path = tlgan/transparent_latent_gan
+	url = git@github.com:SummitKwan/transparent_latent_gan.git
